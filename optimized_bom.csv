@@ -1,0 +1,7 @@
+Component,Description,Qty (per unit),Unit Price (EGP) @ 1k,Total Price (EGP),Optimization Rationale
+ATmega328PB-AU microcontroller,Bare 8-bit AVR SMD microcontroller running on internal oscillator,1,57.53,57.53,Replaces full 350 EGP Arduino Uno board
+LCD1602 display,Bare 16x2 character LCD module,1,117.76,117.76,Removes shield overhead and unused keypad PCB
+"NTC sensor, 2 switches, buzzer, driver, LED",NTC thermistor + 2 tactile switches + buzzer with transistor driver + SMD LED,1,14.00,14.00,Replaces expensive LM35DZ and 5-button shield (est.)
+12 V regulator and protection,Automotive 12 V to 5 V voltage regulator with reverse/transient protection,1,13.50,13.50,Allows direct operation from car battery supply (est.)
+Passives and PCB,Custom 2-layer PCB with decoupling capacitors and resistors,1,23.12,23.12,Eliminates jumper wires and prototyping headers (est.)
+Total,,5,,225.91,Approx. 226 EGP (~66% cheaper than prototype)

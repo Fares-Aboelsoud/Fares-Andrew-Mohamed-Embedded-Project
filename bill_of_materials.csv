@@ -1,0 +1,7 @@
+Component,Description,Qty,Unit Price (EGP),Total Price (EGP),Notes
+Arduino Uno R3 (compatible),ATmega328P development board with 16 MHz crystal and USB interface,1,350.00,350.00,Main microcontroller board used for prototyping
+LCD keypad shield (16x2 + 5 buttons),16x2 HD44780 LCD with resistor-ladder keypad on A0,1,150.00,150.00,Built-in display and buttons minimizing external wiring
+LM35DZ temperature sensor,Analog linear temperature sensor (10 mV/C) connected to A1,1,75.00,75.00,Measures ambient temperature via ADC1
+"5 V buzzer, LED and 220 Ohm resistor",Active 5 V buzzer (PD3) + 5 mm LED (PB4/PB5) + current-limiting resistor,1,10.00,10.00,Audible and visual NOK alarm indicators (1 each)
+Jumpers and USB cable,Jumper wire set and USB-A to USB-B programming/power cable,1,70.00,70.00,Estimated cost for interconnects and power (1 set)
+Total,,5,,655.00,Total prototype cost in EGP (approx. 655 EGP)
